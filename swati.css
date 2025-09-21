@@ -1,0 +1,83 @@
+.u1{
+    background-color: aqua;
+    color: red;
+    font-size: 15px;
+}
+p{
+    color: rgb(54, 11, 184);
+    background-color: lightgray;
+}
+.u2{
+    color: darkgoldenrod;
+    background-color: antiquewhite;
+}
+.u3{
+    color: tomato;
+}
+/* .u4{
+    background-color: lightcyan;
+    color: lawngreen;
+    font-size: 20px;
+} */
+.u5 a{
+    color: purple;
+    text-decoration: none;
+}
+.u5{
+    color: chartreuse;
+}
+.u7 ul li{
+    color: saddlebrown;
+    background-color: lightpink;
+    font-size: 20px;
+}
+.u7{
+    background-color: lightpink;
+}
+#u11{
+    background-color: antiquewhite;
+    color: rgb(rgb(69, 21, 21), green, blue);
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    border: 5px solid chocolate;
+}
+#u22{
+    border: 2px solid crimson;
+}
+#u44{
+    background-color: bisque;
+    border: 5px double rgb(54, 11, 184);
+    margin-top: 10px;
+    margin-left: 50px;
+}
+#u55{
+    background-color: blanchedalmond;
+    border: 4px dashed darkgoldenrod;
+    color: lawngreen;
+    margin-top: 10px;
+    height: 100px;
+}
+#u6{
+    border: 5px double darkmagenta;
+    background-color: antiquewhite;
+    color: brown;
+    margin-top: 10px;
+    width: 250px; height: 200px;
+}
+#u77{
+    border: 5px dotted rgb(43, 4, 120);
+    margin-top: 10px;
+    background-color: lightgrey;
+    margin-left: 80px;
+}
+#u77 a{
+    color: darkorange;
+    text-decoration: none;
+    margin-left: 40px;
+}
+#u8{
+    border: 5px solid lawngreen;
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
